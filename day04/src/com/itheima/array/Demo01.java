@@ -8,5 +8,6 @@ public class Demo01 {
         arr[1]=2;
 
         System.out.println(arr[1]);
+        System.out.println("hello word!");
     }
 }
