@@ -9,5 +9,6 @@ public class Demo01 {
 
         System.out.println(arr[1]);
         System.out.println("hello word!");
+        System.out.println("hello word!123");
     }
 }
