@@ -1,0 +1,14 @@
+批量修改   shift+f6     字符串反转中用到的快捷键
+倒着遍历的快捷键  ***.forr   字符串反转
+查找类的快捷键   ctrl+N
+进入方法后查找方法  Ctrl+F12
+有返回值的方法调用时直接生成变量接受   方法（）.var
+shift+2  快速重写方法
+Ctrl+p   查看方法的参数列表
+反编译：1,cmd
+        2,javap 字节码文件
+Ctrl+alt+v  自动生成变量接收
+System类中的  currentTimeMillis  方法可以返回当前的系统时间毫秒值
+arrayCopy 拷贝数组
+计算机中时间原点也就是诞生c语言的时间 1970年1月1日0点 中国为当天8点整
+点到类名上-->ctrl+H -->Expand All
