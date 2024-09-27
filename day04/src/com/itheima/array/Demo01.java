@@ -7,6 +7,8 @@ public class Demo01 {
         arr[0]=1;
         arr[1]=2;
 
+        System.out.println("hello word!123123");
+        System.out.println("hello word123456——9.27!");
         System.out.println("hello word!123");
     }
 }
